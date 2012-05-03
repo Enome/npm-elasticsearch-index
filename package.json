@@ -3,7 +3,8 @@
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
-    "follow": "0.8.0"
+      "follow": "0.8.0"
+    , "request": "2.9.202"
   }
   , "devDependencies": { }
 }
