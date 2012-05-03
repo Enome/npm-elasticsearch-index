@@ -1,6 +1,6 @@
 # Npm Elasticsearch Index.
 
-This project will create an index from the npm registry. It will make name, tags/keyboards and authors searchable and it will store the complete doc.
+This project will create an index from the npm registry. It will make name, tags/keywords and authors searchable and it will store the complete doc.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Once it's installed run:
 node app.js
 ```
 
-There are small parts to the app.
+The app consists out of 3 tiny scripts:
 
 - Delete: This deletes the index. So the first time you run it you might see a 404.
 - Create: This will create the mapping and the index.
