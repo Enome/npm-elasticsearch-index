@@ -1,0 +1,9 @@
+{
+    "name": "npm-elasticsearch"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+    "follow": "0.8.0"
+  }
+  , "devDependencies": { }
+}
